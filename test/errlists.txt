@@ -1,0 +1,3 @@
+1 python一个模块就是一个.py文件，我的项目起名字为serial.py，和将要使用的
+串口包重名了，在程序中import serial.tools.list_ports 一直错误，
+安装pyserial也不行，就是因为重名，它优先从你的当前项目中引入模块

@@ -1,0 +1,4 @@
+1、安装pyserial
+pip install pyserial
+2、安装Tkinter：
+$sudo apt-get install python-tk
